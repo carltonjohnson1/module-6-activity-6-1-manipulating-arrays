@@ -1,5 +1,7 @@
 # Coding Challenge as part of an online coding diploma I'm doing
 
+![screenshot to come](preview-screenshot.jpg)
+
 ## Content
 
 This one of a series of coding challenges I've completed while doing a Coding Diploma course with [Itonlinelearning](https://www.itonlinelearning.com/).
